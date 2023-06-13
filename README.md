@@ -7,7 +7,7 @@ python -m venv <env name>
 
 Activate environment
 ```
-source <path to env folder>/bin/activate
+source langchain_support_chatbox/bin/activate
 ```
 
 Once activated, you can install any package using pip. To see the installed packages and their versions type,
