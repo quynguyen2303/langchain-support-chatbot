@@ -1,5 +1,18 @@
 # langchain-support-chatbot
 
+## How to use
+
+Run
+```
+from langchain_bot import print_answer
+```
+Ask
+```
+print_answer("Who were the writers of Seinfeld?")
+```
+
+
+
 To create a virtual environment type,
 ```
 python -m venv <env name>
